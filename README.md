@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hello. I'm Ian Harrington
 
-You can use the [editor on GitHub](https://github.com/Ian-Harrington/ian-harrington.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Who I am
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an engineer passionate about resolving the issues driving climate change. My goal is to change the world to a more thoughtful, compassionate, and enjoyable place. I enjoy hiking, biking, backpacking, and learning how people think and engage with others.
 
-### Markdown
+### What I do
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a software engineer at Fidelity Investments. I help develop and deploy tools that ensure other engineers can easily and reliably deploy their applications to the cloud.
 
-```markdown
-Syntax highlighted code block
+### What I've built
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ian-Harrington/ian-harrington.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Coming soon.
